@@ -1,0 +1,46 @@
+.pad-30
+{
+	padding-left:15%;
+	padding-right:15%;
+
+}
+.pad-40
+{
+	padding-left:20%;
+	padding-right:20%;
+
+}
+#footer
+{
+	clear:both;
+	position : relative;
+    bottom : 0;
+    width:100%;
+}
+.pad10
+{
+	margin-right:10%;
+}
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 42px;
+    
+}
+body
+{
+	min-height: 100%;
+}
+.navbar-wraper{
+border-bottom: 0;
+margin-bottom: 0;
+}
+.navbar {
+    margin-bottom: 0;
+}
+.container-pad
+{
+
+	padding:0% 8% 0% 8%;
+	margin:0% 8% 0% 8%;
+}
